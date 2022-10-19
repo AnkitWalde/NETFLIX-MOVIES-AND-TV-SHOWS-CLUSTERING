@@ -1,6 +1,5 @@
 # NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING
 ![harrypotty-min-1-768x471](https://user-images.githubusercontent.com/59911959/195928205-b790fb3c-f702-4dc2-9a7c-12b1da6287e1.jpg)
-# NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING
 ## Objectives:
 * Conduct Exploratory Data Analysis.
 * Try understanding what type content is available in different countries.
